@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sliderclub/static/css/main.f141137d.css",
+    "main.js": "/sliderclub/static/js/main.ecfbc0a9.js",
+    "static/js/787.7fc6b9c8.chunk.js": "/sliderclub/static/js/787.7fc6b9c8.chunk.js",
+    "static/media/hand.png": "/sliderclub/static/media/hand.c0e98b07beb7f1061e90.png",
+    "index.html": "/sliderclub/index.html",
+    "main.f141137d.css.map": "/sliderclub/static/css/main.f141137d.css.map",
+    "main.ecfbc0a9.js.map": "/sliderclub/static/js/main.ecfbc0a9.js.map",
+    "787.7fc6b9c8.chunk.js.map": "/sliderclub/static/js/787.7fc6b9c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f141137d.css",
+    "static/js/main.ecfbc0a9.js"
+  ]
+}
